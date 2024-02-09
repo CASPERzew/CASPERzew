@@ -1,7 +1,7 @@
 [![MasterHead](https://i.pinimg.com/originals/72/19/e8/7219e89f474db55702ed3bd52e2c647b.gif)]()
 <h1 align="center">Hi 👋, I'm CASPERzew</h1>
 <h3 align="center">UX DESIGNER | SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/47/39/ca473957fb440b4dc14a6ae7d38c0e4c.gif">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperzew&label=Profile%20views&color=0e75b6&style=flat" alt="casperzew" /> </p>
