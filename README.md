@@ -27,3 +27,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=casperzew&show_icons=true&locale=en" alt="casperzew" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=casperzew&" alt="casperzew" /></p>
+
+img {
+    filter: grayscale(100%);
+}
