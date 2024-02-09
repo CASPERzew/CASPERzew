@@ -1,7 +1,7 @@
-[![MasterHead](https://cdn.discordapp.com/attachments/963071909925380177/1205627553247658024/cinematic-ezgif.com-optimize.gif?ex=65d90f28&is=65c69a28&hm=7fd84aefaf390e697f4459760226b6008b45d50d6214e8add2bfe0c5fd74dfeb&)]()
+[![MasterHead](https://cdn.discordapp.com/attachments/963071909925380177/1205628711697780776/banner.png?ex=65d9103c&is=65c69b3c&hm=5caa8d0be9279b6316fa7eaaf2a36d0669bfb023a05c0b836f945c1156b48eb1&)]()
 <h1 align="center">Hi 👋, I'm CASPERzew</h1>
 <h3 align="center">UX DESIGNER | SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963071909925380177/1205627161210388532/ca473957fb440b4dc14a6ae7d38c0e4c.gif?ex=65d90eca&is=65c699ca&hm=a01df5e93df596d6cfebbfea9d1529730668eddf555acaed9302229a71c6656e&">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963071909925380177/1205629179077333032/avatar.png?ex=65d910ab&is=65c69bab&hm=fe5be99beb05892449915fa70f0121c7a9e02b3b0776db3bd548ba39ca1a2574&">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperzew&label=Profile%20views&color=0e75b6&style=flat" alt="casperzew" /> </p>
