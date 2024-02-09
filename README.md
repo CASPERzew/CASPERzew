@@ -1,4 +1,4 @@
-[![MasterHead]([https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif](https://i.pinimg.com/originals/b1/f4/e7/b1f4e7e300464d8b3443c4d5518045f2.gif))]()
+[![MasterHead](https://i.pinimg.com/originals/72/19/e8/7219e89f474db55702ed3bd52e2c647b.gif)]()
 <h1 align="center">Hi 👋, I'm CASPERzew</h1>
 <h3 align="center">UX DESIGNER | SOFTWARE ENGINEER</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/a5/35/60/a53560c8088900e266880f779dacced7.gif">
