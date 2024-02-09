@@ -1,7 +1,7 @@
-[![MasterHead](https://i.pinimg.com/originals/16/03/fb/1603fb7077abb9093f4af305b4e5ce79.gif)]()
+[![MasterHead](https://cdn.discordapp.com/attachments/963071909925380177/1205627553247658024/cinematic-ezgif.com-optimize.gif?ex=65d90f28&is=65c69a28&hm=7fd84aefaf390e697f4459760226b6008b45d50d6214e8add2bfe0c5fd74dfeb&)]()
 <h1 align="center">Hi 👋, I'm CASPERzew</h1>
 <h3 align="center">UX DESIGNER | SOFTWARE ENGINEER</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ca/47/39/ca473957fb440b4dc14a6ae7d38c0e4c.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/963071909925380177/1205627161210388532/ca473957fb440b4dc14a6ae7d38c0e4c.gif?ex=65d90eca&is=65c699ca&hm=a01df5e93df596d6cfebbfea9d1529730668eddf555acaed9302229a71c6656e&">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=casperzew&label=Profile%20views&color=0e75b6&style=flat" alt="casperzew" /> </p>
